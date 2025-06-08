@@ -1,0 +1,29 @@
+box{
+    height: 72px;
+    width: 72px;
+    border: 1px solid black;
+    display: grid;
+    place-items: center;
+    font-size: 24px;
+    font-weight: 700;   
+
+}
+.selected {
+  background-color: black;
+  color: white;
+}
+.flex{
+    display: flex;
+    gap: 24px;
+}
+.numb{
+    font-size: 24px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    line-height: normal;
+}
+.error{
+color: red;
+}

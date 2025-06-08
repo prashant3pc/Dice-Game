@@ -1,0 +1,11 @@
+.images{
+    display: flex;
+    align-items: center;
+    margin-top: 48px;
+    flex-direction: column;
+    cursor: pointer;
+}
+p{
+font-size: 24px;
+
+}
